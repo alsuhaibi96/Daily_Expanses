@@ -1,5 +1,5 @@
 # Daily_Expanses
-"Daily Expanses " is an app for writinng and entering daily transactions about what you spend it is a flutter application that works on iOS and Android devices well with different user interfaces ..IOS like and Android Like
+"Daily Expanses " is an app for writinng and entering daily transactions about what you spend it is a flutter application that works on iOS and Android devices well with different user interfaces ..iOS like and Android Like
 
 This is the main Screen 
 
